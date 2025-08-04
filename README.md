@@ -35,4 +35,10 @@ bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 ```
 
+**GUI file management**
 
+ [Nautilus](https://community.linuxmint.com/software/view/nautilus)
+
+```bash
+sudo apt-get install nautilus
+```
