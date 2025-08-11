@@ -35,7 +35,7 @@ bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 ```
 
-***Manage sound output***
+**Manage sound output**
 
 ```
 pavucontrol
@@ -53,7 +53,7 @@ sudo apt-get install nautilus
 
 ## Backgound image management
 
-***nitrogen***
+**nitrogen**
 
 ```bash
 auso apt-get install nitrogen
