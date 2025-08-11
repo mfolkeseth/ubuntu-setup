@@ -35,6 +35,12 @@ bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 ```
 
+***Manage sound output***
+
+```
+pavucontrol
+```
+
 # GUI stuff
 
 ## File management
